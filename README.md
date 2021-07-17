@@ -1,7 +1,7 @@
 # Spring-Boot-Exception-Handler
 Repository to try out custom exception handling user Spring Annotations
 
-Documentation : Working on it
+Code setup & Documentation : https://github.com/gokulanviswanathan/Spring-Boot-Exception-Handler/wiki/Spring-Boot-Exception-Handler-Documentation
 
 --------------
 Pre-requisites
